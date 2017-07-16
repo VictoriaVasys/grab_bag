@@ -5,7 +5,7 @@ View it live at: https://grabbag.herokuapp.com/
 Login as admin with 
 ```
 username: Admin
-password: banana**
+password: banana
 ```
 
 ### Setup
